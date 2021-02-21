@@ -1,2 +1,2 @@
 # ejemplomdb
-Este repositorio contendra un ejemplo de MDB en Java
+Este repositorio contieneun ejemplo de MDB en Java
